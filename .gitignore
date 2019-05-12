@@ -1,6 +1,7 @@
 ### Vert.x ###
 .vertx/
-
+*idea*
+*deployment*
 ### Eclipse ###
 
 .metadata
